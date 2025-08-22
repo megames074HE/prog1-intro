@@ -4,6 +4,6 @@ print("Hejsan svejsan")
 name = input('VAD HETER DU:')
 
 while True:
-    print('tjingelongan '+ name)
+    print('tjingelongan '+ name + " Verkar att det funkar")
 
 
